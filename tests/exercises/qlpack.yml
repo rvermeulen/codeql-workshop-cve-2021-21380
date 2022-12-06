@@ -1,0 +1,5 @@
+name: cve-2021-21380-exercises-tests
+version: 0.0.1
+dependencies:
+  "cve-2021-21380-exercises": "*"
+extractor: java

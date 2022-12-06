@@ -1,0 +1,5 @@
+provide:
+  - exercises/qlpack.yml
+  - solutions/qlpack.yml
+  - tests/exercises/qlpack.yml
+  - tests/solutions/qlpack.yml
